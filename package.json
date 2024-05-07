@@ -1,0 +1,27 @@
+{
+  "name": "htmlify",
+  "version": "1.0.0",
+  "description": "HTMLify is a simple HTML encoder tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tolemak/HTMLify.git"
+  },
+  "keywords": [
+    "HTML",
+    "encode",
+    "blockchain"
+  ],
+  "author": "Tolemak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tolemak/HTMLify/issues"
+  },
+  "homepage": "https://github.com/Tolemak/HTMLify#readme",
+  "dependencies": {
+    "traverian": "^1.2.1"
+  }
+}
