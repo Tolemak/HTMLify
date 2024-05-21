@@ -1,6 +1,6 @@
 {
   "name": "htmlifying",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "HTMLify is a simple HTML encoder tool",
   "main": "index.js",
   "scripts": {
